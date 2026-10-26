@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou a Manuela Rosin! 👋
 
-<!--
-**manuelahavan-pixel/manuelahavan-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Estagiária de Ciência de Dados @ Havan
 
-Here are some ideas to get you started:
+Atualmente faço parte da equipe de Ciência de Dados na Havan, onde aplico análise de dados, processamento em grande escala e desenvolvimento de dados para gerar insights para o negócio. Busco constantemente evoluir em Machine Learning, Big Data e soluções integradas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Ciência de Dados & Big Data:**
+- Python | PySpark | Pandas | SQL
+
+**Desenvolvimento Web & Versionamento:**
+- HTML5 | CSS3 | JavaScript | Git & GitHub
+
+**Ambientes de Desenvolvimento:**
+- Jupyter Notebook | VS Code
+
+---
+
+### 🎓 Formação & Objetivos
+
+- 🎓 Cursando: Sistemas de Informação na UNIFEBE.
+- 🎯 Foco atual: Estudos sobre Análise de Dados e Engenharia de Dados.
+
+---
+
+### 📬 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [Manuela Rosin](https://linkedin.com/in/manuelarosin)
+- ✉️ **E-mail:** manuela.rosin@havan.com.br | manuelahavan@gmail.com
