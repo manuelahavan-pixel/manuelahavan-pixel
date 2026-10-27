@@ -1,6 +1,6 @@
 # Olá, eu sou a Manuela Rosin! 👋
 
-### 👩‍💻 Estagiária de Ciência de Dados @ Havan
+### 👩‍💻 Estagiária de Ciência de Dados | Havan
 
 Atualmente faço parte da equipe de Ciência de Dados na Havan, onde aplico análise de dados, processamento em grande escala e desenvolvimento de dados para gerar insights para o negócio. Busco constantemente evoluir em Machine Learning, Big Data e soluções integradas!
 
